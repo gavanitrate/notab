@@ -22,6 +22,7 @@ notab is a simple tool to quickly switch your Windows device between desktop mod
 
 **Important Notes:**
 
+*   This application requires the [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) (or later) to be installed.
 *   If you don't run it as administrator, it will show an error message and close.
 *   If it encounters an error while trying to change the mode, it will show an error message and close.
 
