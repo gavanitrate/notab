@@ -1,7 +1,0 @@
-C:\Users\gagan\IdeaProjects\notab\bin\Release\net9.0-windows\publish\notab.exe
-C:\Users\gagan\IdeaProjects\notab\bin\Release\net9.0-windows\publish\static\desktop.ico
-C:\Users\gagan\IdeaProjects\notab\bin\Release\net9.0-windows\publish\static\device-tablet.ico
-C:\Users\gagan\IdeaProjects\notab\bin\Release\net9.0-windows\publish\notab.dll
-C:\Users\gagan\IdeaProjects\notab\bin\Release\net9.0-windows\publish\notab.deps.json
-C:\Users\gagan\IdeaProjects\notab\bin\Release\net9.0-windows\publish\notab.runtimeconfig.json
-C:\Users\gagan\IdeaProjects\notab\bin\Release\net9.0-windows\publish\notab.pdb
