@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("notab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16a8571a40656df89c0d4263094d76d795b9a604")]
 [assembly: System.Reflection.AssemblyProductAttribute("notab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("notab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
