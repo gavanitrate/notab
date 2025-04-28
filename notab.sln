@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notab", "notab.csproj", "{AACE96CF-837D-3B31-3C43-2C33A8444261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AACE96CF-837D-3B31-3C43-2C33A8444261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACE96CF-837D-3B31-3C43-2C33A8444261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACE96CF-837D-3B31-3C43-2C33A8444261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACE96CF-837D-3B31-3C43-2C33A8444261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42894A82-6841-4904-AFC2-8FC84FA90675}
+	EndGlobalSection
+EndGlobal
