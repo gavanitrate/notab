@@ -2,13 +2,20 @@
 
 ## For Users
 
+**Download:**
+
+You can download the latest release from the [GitHub Releases page](https://github.com/gavanitrate/notab/releases).
+
+ - Download the `notab.zip` file.
+ - Extract this file anywhere
+
 **What it does:**
 
 notab is a simple tool to quickly switch your Windows device between desktop mode and tablet mode.
 
 **How to use it:**
 
-1.  **Run as Administrator:** You MUST start this application with administrator privileges. Right-click the `.exe` file and choose "Run as administrator".
+1.  **Run as Administrator:** You MUST start this application with administrator privileges. Right-click `notab.exe` file and choose "Run as administrator".
 2.  **Find the Icon:** Look for the notab icon in your system tray (usually near the clock). It will look like a small desktop monitor or a tablet.
 3.  **Switch Modes:** Double-click the icon. This will switch your device between desktop and tablet mode. The icon will change to show the current mode.
 4.  **Exit:** Right-click the icon and select "Exit" to close the application.
